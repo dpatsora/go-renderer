@@ -1,0 +1,1 @@
+Test currencies: {{range $element := .currencies}} {{$element}} {{end}} {{ .Add 1 3}}
